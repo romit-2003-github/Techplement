@@ -1,0 +1,3 @@
+[submodule "Techplement-client"]
+	path = Techplement-client
+	url = https://github.com/romit-2003-github/Techplement-client.git
